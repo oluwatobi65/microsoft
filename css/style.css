@@ -24,6 +24,7 @@ ul{
     width: 90%;
     max-width: 1100%;
     margin: auto;
+    overflow: hidden;
 }
 /* nav */
 .main-nav{
